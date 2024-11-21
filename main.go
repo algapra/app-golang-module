@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(golang_module.SayHello())
+	fmt.Println(golang_module.SayHello("aldi"))
 }
